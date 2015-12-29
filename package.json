@@ -1,0 +1,20 @@
+{
+  "name": "mod-b",
+  "version": "2.0.0",
+  "description": "a test module for npm docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashleygwilliams/module-B.git"
+  },
+  "keywords": [],
+  "author": "ag_dubs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleygwilliams/module-B/issues"
+  },
+  "homepage": "https://github.com/ashleygwilliams/module-B"
+}
